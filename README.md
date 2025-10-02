@@ -1,5 +1,5 @@
 # ShadowCipher
 This material is meant to introduce you into reverse-engineering 
-i have simplified some crackme examples
-the source code will not be available
-Soc-analyst materials
+I have simplified some crackme examples
+The source code will not be made available
+
